@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1052.993" viewBox="0 0 1920 1052.993">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.224" y1="-0.433" x2="0.979" y2="1.025" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdfd40"/>
+      <stop offset="0.314" stop-color="#fbf93e"/>
+      <stop offset="1" stop-color="#ddaa37"/>
+    </linearGradient>
+  </defs>
+  <path id="Intersection_1" data-name="Intersection 1" d="M942.062,661.141C515.758,202.482,0,336.632,0,336.632V.282H1920v885.13c-140.02,109.022-258.066,167.868-377.936,167.862C1369.443,1053.266,1193.073,931.2,942.062,661.141Z" transform="translate(0 -0.282)" fill="url(#linear-gradient)"/>
+</svg>
